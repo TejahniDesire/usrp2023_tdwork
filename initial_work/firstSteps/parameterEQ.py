@@ -7,7 +7,11 @@ from astropy import units as u
 
 # All units are in cgsa
 
-
+# TO DO: given I get Tb brightness.
+# Fix Jv
+# Iv = size of emitting reion * jv. units of gravity radius, swartchchild radius for s, 6 rs.
+# Iv = 5 Rsch * jv
+# m = m87blk
 # x = nu/nu_c. # n = number density
 #
 def j_emission(n,temp, mass, b_field, theta_b, nu, gamma):
