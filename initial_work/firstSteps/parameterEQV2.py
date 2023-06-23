@@ -18,7 +18,7 @@ def bright_temp(nu, intensity_nu):
 
 
 def specific_intensity(j_coeff, mass):
-    """Calculate photon specific intensity at far field given emission coefficient and encountered black hole mass
+    """Calculate p  hoton specific intensity at far field given emission coefficient and encountered black hole mass
 
     Args:
         j_coeff (Float): Emission coefficient
