@@ -723,7 +723,7 @@ QD0fe9AzKAXALKX/bVufG0B0yt5Y6isFwPEYDZGKoRtAqXVC4aAvBcAZrVQh
 }, Open  ]]
 },
 WindowSize->{1044, 564},
-WindowMargins->{{Automatic, -24}, {58.5, Automatic}},
+WindowMargins->{{Automatic, 75}, {Automatic, 86.25}},
 FrontEndVersion->"13.2 for Linux x86 (64-bit) (January 31, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"d14de2cb-4f16-4e96-8661-4b40ce24ec8e"
