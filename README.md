@@ -1,9 +1,7 @@
 # Multi-frequency Models for AART
-This repo is an altered version of AART, a full detailed description of which is at https://github.com/iAART/aart.
+This repository is an altered version of AART, a full detailed description of which is at https://github.com/iAART/aart.
 
-# Black Hole Simulation
-
-This repository contains Python code for simulating black holes, specifically focusing on various physical parameters affecting their behavior and the emission of radiation. The simulation includes calculations of temperature, density, magnetic fields, and specific intensity, tailored for astrophysical contexts.
+These alterations focuson various physical parameters affecting the AART emission profile behavior. The simulation includes calculations of temperature, density, magnetic fields, and specific intensity, tailored for astrophysical contexts.
 
 ## Table of Contents
 
@@ -11,9 +9,7 @@ This repository contains Python code for simulating black holes, specifically fo
 - [Usage](#usage)
 - [Key Features](#key-features)
 - [Parameters](#parameters)
-- [Examples](#examples)
-- [License](#license)
-- [Contributing](#contributing)
+- [Example](#examples)
 
 ## Installation
 
